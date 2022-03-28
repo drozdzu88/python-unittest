@@ -1,6 +1,3 @@
-# Czy poprawnie obliczany jest podatek
-# czy poprawnie jest przypisana pensja po przyznaniu bonusu.
-
 import unittest
 from employe.emp import Employee
 
